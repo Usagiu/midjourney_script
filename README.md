@@ -1,0 +1,2 @@
+# midjourney_script
+用来拉取MJ的图片链接和prompt
